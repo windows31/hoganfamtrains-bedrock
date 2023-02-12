@@ -1,0 +1,257 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:golden_pickaxe": [
+      {
+        "name": "gmdl_f427f46",
+        "allow_offhand": true,
+        "icon": "gmdl_f427f46",
+        "damage_predicate": 0,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_b85df66",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 1,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_d27e9cf",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 2,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_7ddd3ce",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 3,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_287f7d4",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 4,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_4bf79b3",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 5,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_6f1bb7f",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 6,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_9658ddb",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 7,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_eaad062",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 8,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_cc561cf",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 9,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_93e7ce0",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 10,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_78c63c1",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 11,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_3929256",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 12,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_1f20b68",
+        "allow_offhand": true,
+        "icon": "gmdl_1f20b68",
+        "damage_predicate": 13,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_499ab8d",
+        "allow_offhand": true,
+        "icon": "gmdl_499ab8d",
+        "damage_predicate": 14,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_65728b8",
+        "allow_offhand": true,
+        "icon": "gmdl_65728b8",
+        "damage_predicate": 15,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_526f708",
+        "allow_offhand": true,
+        "icon": "gmdl_526f708",
+        "damage_predicate": 16,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_f00551a",
+        "allow_offhand": true,
+        "icon": "gmdl_f00551a",
+        "damage_predicate": 17,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_c8b47bd",
+        "allow_offhand": true,
+        "icon": "gmdl_c8b47bd",
+        "damage_predicate": 18,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_438e384",
+        "allow_offhand": true,
+        "icon": "gmdl_438e384",
+        "damage_predicate": 19,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_4900132",
+        "allow_offhand": true,
+        "icon": "gmdl_4900132",
+        "damage_predicate": 20,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_f1a5df7",
+        "allow_offhand": true,
+        "icon": "gmdl_f1a5df7",
+        "damage_predicate": 21,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_55d79a9",
+        "allow_offhand": true,
+        "icon": "gmdl_55d79a9",
+        "damage_predicate": 22,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_966659b",
+        "allow_offhand": true,
+        "icon": "gmdl_966659b",
+        "damage_predicate": 23,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_a543316",
+        "allow_offhand": true,
+        "icon": "gmdl_a543316",
+        "damage_predicate": 24,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_3c1a368",
+        "allow_offhand": true,
+        "icon": "gmdl_3c1a368",
+        "damage_predicate": 25,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_12d825e",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 26,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_462e7a9",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 27,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_103a46a",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 28,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_9d45ca3",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 29,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_adc9661",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 30,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_e115e5b",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 31,
+        "unbreakable": true
+      },
+      {
+        "name": "gmdl_8df0ec9",
+        "allow_offhand": true,
+        "icon": "pickaxe",
+        "frame": 3,
+        "damage_predicate": 32,
+        "unbreakable": true
+      }
+    ]
+  }
+}

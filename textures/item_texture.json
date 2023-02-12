@@ -1,0 +1,51 @@
+{
+  "resource_pack_name": "geyser_custom",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "gmdl_f427f46": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_499ab8d": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_1f20b68": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_65728b8": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_f00551a": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_526f708": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_c8b47bd": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_438e384": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_f1a5df7": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_55d79a9": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_966659b": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_4900132": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_f3e41a5": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_3c1a368": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    },
+    "gmdl_a543316": {
+      "textures": "textures/geyser/geyser_custom/minecraft/item/golden_pickaxe"
+    }
+  }
+}
