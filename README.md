@@ -1,8 +1,9 @@
 # Hoganfamtrains Bedrock
 The bedrock edition port to the Hoganfam trains project to be able to use the trains on bedrock edition via the geyser plugin
+This pack is usable on bedrock versions upto 1.16.0 and no further backporting will be done. This pack will be updated only when a new release is made on the main project to retain support for other packs such as MTVehicles for Bedrock.
 
 Things needed before installation:
-1. Make sure the ![GeyserMC](https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/) plugin along with ![Traincarts](https://www.spigotmc.org/resources/traincarts.39592/) Is downloaded on your server
+1. Make sure the GeyserMC plugin along with TrainCarts Is downloaded on your server as the latest version
 2. After uploading them to the /plugins folder restart your server
 3. After this step make sure to go to the ![HoganFam Trains github](https://github.com/amalon/hoganfam-trains) and download the latest release and put the hoganfam_trains.yml in plugins/Train_Carts/savedTrainModules folder (optionally downoad the java edition pack from there if you want to see the train from both editions of minecraft).
 4. Restart your server as the custom trains are now added.
