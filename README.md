@@ -1,6 +1,7 @@
 # Hoganfamtrains Bedrock
 The bedrock edition port to the Hoganfam trains project to be able to use the trains on bedrock edition via the geyser plugin
 This pack is usable on bedrock versions upto 1.16.0 and no further backporting will be done. This pack will be updated only when a new release is made on the main project to retain support for other packs such as MTVehicles for Bedrock.
+This pack is not yet perfect as there will be some bugs in bedrock and the shulker head texture remains visible creating an ugly row of shulker heads on the floor and doors of the train
 
 Things needed before installation:
 1. Make sure the GeyserMC plugin along with TrainCarts Is downloaded on your server as the latest version
