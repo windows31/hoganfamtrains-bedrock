@@ -13,7 +13,8 @@ HOW TO INSTALL:
 1. Download the latest release here
 2. Put the train_hoganfam_mappings.json file in the plugins/Geyser-Spigot/custom_mappings folder
 3. Put the hoganfamtrainsbedrock.mcpack file in the plugins/Geyser-Spigot/packs folder
-4. Restart your server
+4. Put the GeyserOptionalPack.mcpack file in the plugins/Geyser-Spigot/packs folder
+5. Restart your server
 
 How to play with this pack:
 When joining the server be sure to download the packs or else you cannot see the trains
